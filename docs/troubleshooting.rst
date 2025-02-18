@@ -52,8 +52,27 @@ For **good deformations**, consider:
 With a good mesh, *Fit Curve* will work much better.
 
 --------------------------------------------------------------------------------------
+I can't see the curve to edit when the modifier is applied
+--------------------------------------------------------------------------------------
+
+.. image:: _static/images/object_in_front_1.png
+   :alt: Troubleshooting
+
+When you apply the *Fit Curve* modifier, the curve object may disappear from view. This is because the curve is being used as a deforming object and not as a visible object.
+
+With the curve object selected, you can go to the Object properties panel and enable the **In Front** option under the *Viewport Display* section: 
+
+.. image:: _static/images/object_in_front_2.png
+   :alt: Troubleshooting
+
+This will make the curve visible in front of other objects, allowing you to see and edit it more easily.
+
+--------------------------------------------------------------------------------------
 Using more curves with the *Add Curve: Extra Objects* Add-on
 --------------------------------------------------------------------------------------
+
+.. image:: _static/images/curve_extra_objects.jpg
+   :alt: Troubleshooting
 
 Blender has a built-in add-on called **Add Curve: Extra Objects** that provides additional curve types, such as spirals, superellipses, and more.
 
@@ -65,7 +84,7 @@ To enable it:
 #. Now, when you press **Shift + A → Curve**, you’ll see more curve options!
 
 .. tip::
-   This add-on is useful if you need special curve shapes to use with *Fit Curve*. It can save time when designing paths for text, objects, or procedural shapes.
+   Make sure '3D' is selected when creating new curve objects.
 
 ------------------------------------------------------------------------------------
 When selecting a curve, that curve appears solid and does not appear to work.
