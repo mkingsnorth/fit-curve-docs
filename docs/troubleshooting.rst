@@ -58,7 +58,7 @@ I can't see the curve to edit when the modifier is applied
 .. image:: _static/images/object_in_front_1.png
    :alt: Troubleshooting
 
-When you apply the *Fit Curve* modifier, the curve object may disappear from view. This is because the curve is being used as a deforming object and not as a visible object.
+When you add the *Fit Curve* modifier, the curve object may disappear from view. This is because the curve is being used as a deforming object and not as a visible object.
 
 With the curve object selected, you can go to the Object properties panel and enable the **In Front** option under the *Viewport Display* section: 
 
