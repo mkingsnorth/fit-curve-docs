@@ -11,7 +11,7 @@ What is Fit Curve?
    :alt: Fit Curve
 
 
-`Fit Curve <https://blendermarket.com/products/fit-curve/>`_ is a Blender modifier designed to provide an intuitive alternative to Blender’s built-in Curve Deform modifier. Unlike the standard approach, which can be confusing due to object-space transformations, Fit Curve ensures that objects align to curves in world space, making it easier to control and predict deformation.
+`Fit Curve <https://blendermarket.com/products/fit-curve/?ref=361>`_ is a Blender modifier designed to provide an intuitive alternative to Blender’s built-in Curve Deform modifier. Unlike the standard approach, which can be confusing due to object-space transformations, Fit Curve ensures that objects align to curves in world space, making it easier to control and predict deformation.
 
 Whether you're positioning text along a path, wrapping objects onto curves, or creating procedural designs, Fit Curve simplifies the process while offering powerful customization options.
 
