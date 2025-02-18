@@ -7,7 +7,13 @@ How to Use
 .. image:: _static/images/how_it_works.jpg
    :alt: Fit Curve
 
-By default, Fit Curve moves the object along the curve using its X axis. This means the front of your object should face right (+X direction) for it to follow the curve correctly. If your object moves sideways or looks wrong, try changing the *Axis* setting in the modifier panel or rotating the object in *Edit* mode.  The curve and object can be anywhere in your scene.  Do send a message if you have any issues or questions via `info@configurate.net <mailto:info@configurate.net>`_..
+By default, Fit Curve moves the object along the curve using its X axis and origin point. This means the front of your object should face right (+X direction) when there is no rotation for it to follow the curve correctly. If your object moves sideways or looks wrong, try changing the *Axis* setting in the modifier panel or rotating the object in *Edit* mode.
+
+.. note::
+
+    For best results, make sure your object’s origin (pivot point) is in the center before using Fit Curve.  You can use *Object -> Set Origin -> Origin to Geometry* in the viewport menu
+
+    Do send a message if you have any issues or questions via `info@configurate.net <mailto:info@configurate.net>`_.
 
 .. image:: _static/images/add_modifier.jpg
    :alt: Fit Curve Modifier
