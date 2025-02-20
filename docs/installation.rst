@@ -6,11 +6,11 @@ Installation
 
 *Fit Curve* is a **Modifier asset**, meaning it is installed as part of Blender’s **Asset Library** rather than a traditional add-on. Once set up, you can access it directly from the **Deform** category in Blender’s modifier menu.
 
-Step 1: Download the Asset File
+Step 1: Download the Files
 --------------------------------
 
 1. Download the *Fit Curve* ``.blend`` file the ``blender_assets.cats.txt`` file.
-3. Save them to a new folder where you want to store your **Blender Asset Library**.
+2. Save them to a new folder where you want to store your **Blender Asset Library**.
 
 Step 2: Set Up Your Asset Library in Blender
 --------------------------------------------
