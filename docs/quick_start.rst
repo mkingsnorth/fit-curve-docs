@@ -26,10 +26,14 @@ Once you have :ref:`installed<installation>`, use *Fit Curve* as a **modifier** 
     .. image:: _static/images/modifiers_tab.jpg
        :alt: Modifiers Tab
        
-#. Click **Add Modifier → Deform → Fit Curve**.
+#. Click **Add Modifier → Deform* → Fit Curve**.
 
     .. image:: _static/images/add_modifier.jpg
        :alt: Add Modifier
+
+   .. note::
+
+      \* To see the **Fit Curve** modifier in the **Deform** category and not as **Unassigned**, follow the steps in :ref:`Ensuring Fit Curve Appears in the Deform Modifier Category<add_cat>`.
 
 #. Pick a *Curve Object* in the modifier settings to align your object.
 
