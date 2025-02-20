@@ -13,7 +13,7 @@ The modifier appears in the *Unassigned* category instead of *Deform*
 .. image:: _static/images/unassigned_category.jpg
    :alt: Troubleshooting
 
-By default, Blender does not categorize custom modifier assets automatically. If *Fit Curve* appears in the **Unassigned** category instead of **Deform**, follow these steps to manually set the correct category inside Blender.
+By default, Blender does not categorize custom modifier assets automatically. If *Fit Curve* appears in the **Unassigned** category instead of **Deform**, follow  :ref:`these steps<add_cat>` to manually set the correct category inside Blender.
 
 --------------------------------------------------------------------------------------
 The modifier crashes Blender when I try to use it
