@@ -9,8 +9,8 @@ Installation
 Step 1: Download the Asset File
 --------------------------------
 
-1. Download the *Fit Curve* ``.blend`` file.
-2. Save it to a location where you want to store your **Blender Asset Library**.
+1. Download the *Fit Curve* ``.blend`` file and the ``blender_assets.cats.txt`` files.
+2. Save them to a location where you want to store your **Blender Asset Library**.
 
 Step 2: Set Up Your Asset Library in Blender
 --------------------------------------------
