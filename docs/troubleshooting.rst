@@ -99,6 +99,20 @@ This may be that the Curve Shape is set to *2D* and not *3D*, which can be chang
    :alt: Troubleshooting
 
 --------------------------------------------------------------------------------------
+When I scale a curve, the result seems stretched.  How do I fix this?
+--------------------------------------------------------------------------------------
+
+When you scale the curve in regular object, it is stretching the curve's "global" coordinates which will also distort the mesh.
+
+.. image:: _static/images/scale_deform.gif
+   :alt: Troubleshooting
+
+To fix this, you can apply the scale to the curve by selecting it, and under the *Object* viewport menu select *Apply -> Scale*:
+
+.. image:: _static/images/apply_scale.jpg
+    :alt: Troubleshooting
+
+--------------------------------------------------------------------------------------
 A question or issue I have is not covered here.
 --------------------------------------------------------------------------------------
 
