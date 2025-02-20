@@ -4,7 +4,7 @@
 Installation
 #############
 
-*Fit Curve* is a **Modifier asset**, meaning it is installed as part of Blender’s **Asset Library** rather than a traditional add-on. Once set up, you can access it directly from the **Deform** category in Blender’s modifier menu.
+*Fit Curve* is a **Modifier asset**, meaning it is installed as part of Blender’s **Asset Library** rather than a traditional add-on. Once set up, you should be able to access it directly from the **Deform** category in Blender’s modifier menu.
 
 Step 1: Download the Files
 --------------------------------
