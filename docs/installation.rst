@@ -9,8 +9,13 @@ Installation
 Step 1: Download the Files
 --------------------------------
 
-1. Download the *Fit Curve* ``.blend`` file the ``blender_assets.cats.txt`` file.
-2. Save them to a new folder where you want to store your **Blender Asset Library**.
+#. You will be provided with the following files:
+
+    * ``fit_curve.blend``: This is the main file containing the modifier asset.
+
+    * ``blender_assets.cats.txt``: This is the configuration file that tells Blender to add the modifier to the "Deform" modifier category.
+
+#. Save these files together to a new folder where you want to store your **Blender Asset Library**.
 
 Step 2: Set Up Your Asset Library in Blender
 --------------------------------------------
@@ -34,7 +39,9 @@ You can then follow the steps in :ref:`How to Use<quick_start>`.
    
    **Ensuring Fit Curve Appears in the Deform Modifier Category**
 
-   By default, Blender **does not categorize custom modifier assets automatically**. If *Fit Curve* appears in the **Unassigned** category instead of **Deform**, follow these steps to manually set the correct category inside Blender.
+   By default, Blender **does not categorize custom modifier assets automatically**. 
+   
+   If *Fit Curve* appears in the **Unassigned** category instead of **Deform**, follow these steps to manually set the correct category inside Blender.
 
    #. Once downloaded to the directory you wish to keep the asset, open the fit-curve.blend file.
 
