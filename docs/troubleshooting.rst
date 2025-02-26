@@ -6,6 +6,13 @@ Tips and Troubleshooting
     
     If you are having any issues do not hesitate to :ref:`Contact Us <contact>`
 
+
+--------------------------------------------------------------------------------------
+The modifier does not appear to work or crashes Blender when I try to use it
+--------------------------------------------------------------------------------------
+
+This is likely due to the fact that the modifier is compatible with Blender 4.3.0 and above.  Make sure you are using the correct version of Blender and :ref:`Contact Us <contact>` if you are still having issues.
+
 --------------------------------------------------------------------------------------
 The modifier appears in the *Unassigned* category instead of *Deform*
 --------------------------------------------------------------------------------------
@@ -15,11 +22,6 @@ The modifier appears in the *Unassigned* category instead of *Deform*
 
 By default, Blender does not categorize custom modifier assets automatically. If *Fit Curve* appears in the **Unassigned** category instead of **Deform**, follow  :ref:`these steps<add_cat>` to manually set the correct category inside Blender.
 
---------------------------------------------------------------------------------------
-The modifier crashes Blender when I try to use it
---------------------------------------------------------------------------------------
-
-This is likely due to the fact that the modifier is compatible with Blender 4.3.0 and above.  Make sure you are using the correct version of Blender and :ref:`Contact Us <contact>` if you are still having issues.
 
 ----------------------------------------------------------------------------------
 When I distort an object, it can look distressed or triangulated.  Why?
